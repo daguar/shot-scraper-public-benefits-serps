@@ -1,3 +1,3 @@
-- url: https://www.google.com/search?q=food+stamps+california&oq=food+stamps+california
-  output: shot.png
+- url: https://www.google.com/search?q=food+stamps+california
+  output: food-stamps-california.png
   height: 800
