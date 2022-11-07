@@ -1,3 +1,11 @@
+# shot-scraper-public-benefits-serps
+
+An alpha instance of [shot-scraper-template](https://github.com/simonw/shot-scraper-template) to experiment with regularly documenting the Google SERP experience for users searching for specific public benefits (e.g. food stamps.)
+
+This is very early and experimental! To contact me, open an issue or [click here for contact info](https://www.daveguarino.com/contact/)
+
+---
+
 # shot-scraper-template
 
 Quickly create a new GitHub repository that takes automated screenshots of a web page using [shot-scraper](https://github.com/simonw/shot-scraper).
