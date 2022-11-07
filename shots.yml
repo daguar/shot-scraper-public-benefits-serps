@@ -2,6 +2,18 @@
   output: food-stamps/food-stamps-california.png
   height: 1600
 
+- url: https://www.google.com/search?q=food+stamps+florida
+  output: food-stamps/food-stamps-florida.png
+  height: 1600
+
 - url: https://www.google.com/search?q=food+stamps+massachusetts
   output: food-stamps/food-stamps-massachusetts.png
+  height: 1600
+
+- url: https://www.google.com/search?q=food+stamps+minnesota
+  output: food-stamps/food-stamps-minnesota.png
+  height: 1600
+
+- url: https://www.google.com/search?q=food+stamps+texas
+  output: food-stamps/food-stamps-texas.png
   height: 1600
