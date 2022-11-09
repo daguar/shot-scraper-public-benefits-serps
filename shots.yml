@@ -2,6 +2,10 @@
   output: food-stamps/food-stamps-california.png
   height: 1600
 
+- url: https://www.google.com/search?q=medicaid+california
+  output: medicaid/medicaid-california.png
+  height: 1600
+
 - url: https://www.google.com/search?q=food+stamps+florida
   output: food-stamps/food-stamps-florida.png
   height: 1600
