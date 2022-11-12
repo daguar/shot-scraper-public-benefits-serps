@@ -4,6 +4,14 @@ An alpha instance of [shot-scraper-template](https://github.com/simonw/shot-scra
 
 This is very early and experimental! To contact me, open an issue or [click here for contact info](https://www.daveguarino.com/contact/)
 
+## Generating shots.yml for this purpose
+
+There is a helper script in `scripts/` to do this.
+
+To run that:
+- Install the 'us' Python library locally
+- From the base project directory, run `python script/generate_shots_yml.py`
+
 ---
 
 # shot-scraper-template

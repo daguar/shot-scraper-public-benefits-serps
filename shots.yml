@@ -1,23 +1,400 @@
-- url: https://www.google.com/search?q=food+stamps+california
-  output: food-stamps/food-stamps-california.png
-  height: 1600
 
-- url: https://www.google.com/search?q=medicaid+california
-  output: medicaid/medicaid-california.png
-  height: 1600
+ - url: https://www.google.com/search?q=food+stamps+alabama
+   output: food-stamps/food-stamps-alabama.png
+   height: 1600
 
-- url: https://www.google.com/search?q=food+stamps+florida
-  output: food-stamps/food-stamps-florida.png
-  height: 1600
+ - url: https://www.google.com/search?q=medicaid+alabama
+   output: medicaid/medicaid-alabama.png
+   height: 1600
 
-- url: https://www.google.com/search?q=food+stamps+massachusetts
-  output: food-stamps/food-stamps-massachusetts.png
-  height: 1600
+ - url: https://www.google.com/search?q=food+stamps+alaska
+   output: food-stamps/food-stamps-alaska.png
+   height: 1600
 
-- url: https://www.google.com/search?q=food+stamps+minnesota
-  output: food-stamps/food-stamps-minnesota.png
-  height: 1600
+ - url: https://www.google.com/search?q=medicaid+alaska
+   output: medicaid/medicaid-alaska.png
+   height: 1600
 
-- url: https://www.google.com/search?q=food+stamps+texas
-  output: food-stamps/food-stamps-texas.png
-  height: 1600
+ - url: https://www.google.com/search?q=food+stamps+arizona
+   output: food-stamps/food-stamps-arizona.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+arizona
+   output: medicaid/medicaid-arizona.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+arkansas
+   output: food-stamps/food-stamps-arkansas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+arkansas
+   output: medicaid/medicaid-arkansas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+california
+   output: food-stamps/food-stamps-california.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+california
+   output: medicaid/medicaid-california.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+colorado
+   output: food-stamps/food-stamps-colorado.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+colorado
+   output: medicaid/medicaid-colorado.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+connecticut
+   output: food-stamps/food-stamps-connecticut.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+connecticut
+   output: medicaid/medicaid-connecticut.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+delaware
+   output: food-stamps/food-stamps-delaware.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+delaware
+   output: medicaid/medicaid-delaware.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+florida
+   output: food-stamps/food-stamps-florida.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+florida
+   output: medicaid/medicaid-florida.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+georgia
+   output: food-stamps/food-stamps-georgia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+georgia
+   output: medicaid/medicaid-georgia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+hawaii
+   output: food-stamps/food-stamps-hawaii.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+hawaii
+   output: medicaid/medicaid-hawaii.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+idaho
+   output: food-stamps/food-stamps-idaho.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+idaho
+   output: medicaid/medicaid-idaho.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+illinois
+   output: food-stamps/food-stamps-illinois.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+illinois
+   output: medicaid/medicaid-illinois.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+indiana
+   output: food-stamps/food-stamps-indiana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+indiana
+   output: medicaid/medicaid-indiana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+iowa
+   output: food-stamps/food-stamps-iowa.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+iowa
+   output: medicaid/medicaid-iowa.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+kansas
+   output: food-stamps/food-stamps-kansas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+kansas
+   output: medicaid/medicaid-kansas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+kentucky
+   output: food-stamps/food-stamps-kentucky.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+kentucky
+   output: medicaid/medicaid-kentucky.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+louisiana
+   output: food-stamps/food-stamps-louisiana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+louisiana
+   output: medicaid/medicaid-louisiana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+maine
+   output: food-stamps/food-stamps-maine.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+maine
+   output: medicaid/medicaid-maine.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+maryland
+   output: food-stamps/food-stamps-maryland.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+maryland
+   output: medicaid/medicaid-maryland.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+massachusetts
+   output: food-stamps/food-stamps-massachusetts.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+massachusetts
+   output: medicaid/medicaid-massachusetts.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+michigan
+   output: food-stamps/food-stamps-michigan.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+michigan
+   output: medicaid/medicaid-michigan.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+minnesota
+   output: food-stamps/food-stamps-minnesota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+minnesota
+   output: medicaid/medicaid-minnesota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+mississippi
+   output: food-stamps/food-stamps-mississippi.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+mississippi
+   output: medicaid/medicaid-mississippi.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+missouri
+   output: food-stamps/food-stamps-missouri.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+missouri
+   output: medicaid/medicaid-missouri.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+montana
+   output: food-stamps/food-stamps-montana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+montana
+   output: medicaid/medicaid-montana.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+nebraska
+   output: food-stamps/food-stamps-nebraska.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+nebraska
+   output: medicaid/medicaid-nebraska.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+nevada
+   output: food-stamps/food-stamps-nevada.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+nevada
+   output: medicaid/medicaid-nevada.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+new+hampshire
+   output: food-stamps/food-stamps-new-hampshire.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+new+hampshire
+   output: medicaid/medicaid-new-hampshire.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+new+jersey
+   output: food-stamps/food-stamps-new-jersey.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+new+jersey
+   output: medicaid/medicaid-new-jersey.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+new+mexico
+   output: food-stamps/food-stamps-new-mexico.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+new+mexico
+   output: medicaid/medicaid-new-mexico.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+new+york
+   output: food-stamps/food-stamps-new-york.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+new+york
+   output: medicaid/medicaid-new-york.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+north+carolina
+   output: food-stamps/food-stamps-north-carolina.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+north+carolina
+   output: medicaid/medicaid-north-carolina.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+north+dakota
+   output: food-stamps/food-stamps-north-dakota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+north+dakota
+   output: medicaid/medicaid-north-dakota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+ohio
+   output: food-stamps/food-stamps-ohio.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+ohio
+   output: medicaid/medicaid-ohio.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+oklahoma
+   output: food-stamps/food-stamps-oklahoma.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+oklahoma
+   output: medicaid/medicaid-oklahoma.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+oregon
+   output: food-stamps/food-stamps-oregon.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+oregon
+   output: medicaid/medicaid-oregon.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+pennsylvania
+   output: food-stamps/food-stamps-pennsylvania.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+pennsylvania
+   output: medicaid/medicaid-pennsylvania.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+rhode+island
+   output: food-stamps/food-stamps-rhode-island.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+rhode+island
+   output: medicaid/medicaid-rhode-island.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+south+carolina
+   output: food-stamps/food-stamps-south-carolina.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+south+carolina
+   output: medicaid/medicaid-south-carolina.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+south+dakota
+   output: food-stamps/food-stamps-south-dakota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+south+dakota
+   output: medicaid/medicaid-south-dakota.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+tennessee
+   output: food-stamps/food-stamps-tennessee.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+tennessee
+   output: medicaid/medicaid-tennessee.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+texas
+   output: food-stamps/food-stamps-texas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+texas
+   output: medicaid/medicaid-texas.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+utah
+   output: food-stamps/food-stamps-utah.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+utah
+   output: medicaid/medicaid-utah.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+vermont
+   output: food-stamps/food-stamps-vermont.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+vermont
+   output: medicaid/medicaid-vermont.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+virginia
+   output: food-stamps/food-stamps-virginia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+virginia
+   output: medicaid/medicaid-virginia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+washington
+   output: food-stamps/food-stamps-washington.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+washington
+   output: medicaid/medicaid-washington.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+west+virginia
+   output: food-stamps/food-stamps-west-virginia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+west+virginia
+   output: medicaid/medicaid-west-virginia.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+wisconsin
+   output: food-stamps/food-stamps-wisconsin.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+wisconsin
+   output: medicaid/medicaid-wisconsin.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=food+stamps+wyoming
+   output: food-stamps/food-stamps-wyoming.png
+   height: 1600
+
+ - url: https://www.google.com/search?q=medicaid+wyoming
+   output: medicaid/medicaid-wyoming.png
+   height: 1600
